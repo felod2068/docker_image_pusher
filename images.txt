@@ -1,5 +1,6 @@
-#支持私库
-#opengrok/docker
-#支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-linzeyi/hivision_idphotos
+# 模板一
+linzeyi/hivision_idphotos:latest
+# 模板二
+--platform=linux/arm64 xiaoyaliu/alist
+# 模板三
+opengrok/docker

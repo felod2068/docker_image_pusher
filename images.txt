@@ -1,6 +1,6 @@
 # 模板一
-linzeyi/hivision_idphotos:latest
+nginx
 # 模板二
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 # 模板三
-opengrok/docker
+#opengrok/docker

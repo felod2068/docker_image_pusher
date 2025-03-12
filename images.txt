@@ -1,5 +1,5 @@
 # 模板一
-ghcr.io/labring/fastgpt-sandbox:v4.9.0
+ghcr.io/labring/fastgpt:v4.9.0
 # 模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 # 模板三

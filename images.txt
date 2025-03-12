@@ -1,5 +1,5 @@
 # 模板一
-pgvector/pgvector:0.8.0-pg15
+mongo:5.0.18
 # 模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 # 模板三

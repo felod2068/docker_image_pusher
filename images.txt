@@ -1,5 +1,5 @@
 # 模板一
-conardli17/easy-dataset:latest
+docker.n8n.io/n8nio/n8n:latest
 # 模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 # 模板三

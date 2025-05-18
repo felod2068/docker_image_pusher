@@ -1,5 +1,5 @@
 # 模板一
-llamahq/ollama:latest
+ollama/ollama:latest
 # 模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 # 模板三

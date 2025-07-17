@@ -1,5 +1,5 @@
 # 模板一
-nocodb/nocodb:latest
+ghcr.io/czlonkowski/n8n-mcp:latest
 # 模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 # 模板三

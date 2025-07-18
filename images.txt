@@ -1,5 +1,5 @@
 # 模板一
-ghcr.io/czlonkowski/n8n-mcp:latest
+n8nio/n8n:1.102.4
 # 模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 # 模板三

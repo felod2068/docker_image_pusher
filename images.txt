@@ -1,5 +1,5 @@
 # 模板一
-qdrant/qdrant
+nvidia/cuda:11.6.2-base
 # 模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 # 模板三

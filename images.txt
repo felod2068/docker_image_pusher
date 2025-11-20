@@ -1,5 +1,5 @@
 #  模板一
-ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddleocr-genai-vllm-server:latest-offline
+docker.n8n.io/n8nio/n8n:1.120.3
 #  模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 #  模板三

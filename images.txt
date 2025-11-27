@@ -1,5 +1,5 @@
 #  模板一
-soulter/astrbot:latest
+mlikiowa/napcat-docker:latest
 #  模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 #  模板三

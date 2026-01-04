@@ -1,5 +1,5 @@
 #  模板一
-tradingagents-backend:v1.0.0-preview
+tradingagents-frontend:v1.0.0-preview
 #  模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 #  模板三

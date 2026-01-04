@@ -1,5 +1,5 @@
 #  模板一
-docker.n8n.io/n8nio/n8n:1.121.3
+tradingagents-backend:v1.0.0-preview
 #  模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 #  模板三

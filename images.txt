@@ -1,5 +1,5 @@
 #  模板一
-docker.n8n.io/n8nio/n8n:1.122.4
+docker.io/library/node:22-bookworm-slim
 #  模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 #  模板三

@@ -1,5 +1,5 @@
 #  模板一
-postgres:15
+postgres:16.0
 #  模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 #  模板三

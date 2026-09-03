@@ -1,5 +1,5 @@
 #  模板一
-docker.xuanyuan.run/library/postgres:15
+docker.io/library/postgres:16
 #  模板二
 #--platform=linux/arm64 xiaoyaliu/alist
 #  模板三
